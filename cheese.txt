@@ -1,1 +1,2 @@
 cheesing day 1 because I do not want to deal with uncles in red-black trees at 10:50 PM
+cheesing day 2 because I am confused on how to rotate_right and rotate_left current nodes and switch out colors of grandparents and uncles.
